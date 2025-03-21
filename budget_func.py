@@ -1,20 +1,9 @@
 import budget_manager
 #פונקציה המפקידה כסף לתקציב
 def Add_Income(incomes):
-    ----function new
-def add_income(incomes, budget)
-    budget += income
-    return budget
-    -----
-    return()
 
 
-
-
-
-#פונקציה המושכת כסף מהתקציב
-def Add_Expense(expenses):
-
+    print("check")
     return()
 
 
