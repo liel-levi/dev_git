@@ -37,19 +37,19 @@ The implementation will be on the following functions:
   - `incomes`: list of dictionaries that each of them contains a different income.
 - return: updated `incomes` list with new income dictionary.
   
-### Add_Expense(expenses)
+**Add_Expense(expenses)**
 - description: entering a new expense to the budget.
 - parameters:
   - `expenses`: list of dictionaries that each of them contains a different expense.
 - return: updated `expenses` list with new expense dictionary.
   
-### Sh_Balance(balance)
+**Sh_Balance(balance)**
 - description: showing the balnace between the inconmes and the expenses in the budget.
 - parameters:
   - `balance`: the balance of the budget that exist right now.
 - return: balance of the budget.
   
-### Sh_Struc_His(incomes,expenses)
+**Sh_Struc_His(incomes,expenses)**
 - description: showing the history of the incomes and the expenses in the budget.
 - parameters:
   - `incomes`: list of dictionaries that each of them contains a different income.
