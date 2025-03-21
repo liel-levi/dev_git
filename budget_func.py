@@ -17,7 +17,10 @@ def Add_Income(incomes):
 
 #פונקציה המושכת כסף מהתקציב
 def Add_Expense():
+  
 
+
+    print("check")
     return()
 
 
