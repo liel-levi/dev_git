@@ -1,3 +1,4 @@
+import budget_manager
 #פונקציה המפקידה כסף לתקציב
 def Add_Income(incomes):
 
@@ -8,7 +9,7 @@ def Add_Income(incomes):
 
 
 #פונקציה המושכת כסף מהתקציב
-def Add_Expense():
+def Add_Expense(expenses):
 
     return()
 
@@ -17,7 +18,7 @@ def Add_Expense():
 #פונקציה המראה כמה כסף יש כרגע בתקציב
 def Sh_Balance(balance):
 
-    return
+    return()
 
 
 
