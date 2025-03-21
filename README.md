@@ -56,6 +56,5 @@ The implementation will be on the following functions:
   - `expenses`: list of dictionaries that each of them contains a different expense.
 - return: transaction history of the budget.
 
-## Receive the updated data structure from the function and overwrite the existing one.
-## Update the data structure based on the received data structure from the function.
+
 
